@@ -1,6 +1,6 @@
 # FTA Intro
 
->This is used for the FTA 1:many session delivered to new FTA customers
+>This is used for the FTA Intro 1:many session delivered to new FTA customers
 
 
 ## Contributing
