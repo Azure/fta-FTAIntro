@@ -9,7 +9,7 @@
 
 # Agenda
 
-1. FastTrack for Azure Summary[https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview]
+1. [FastTrack for Azure Summary](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview)
 2. Eligibility to the Program
 3. Solutions Supported
 4. The FastTrack for Azure Journey
