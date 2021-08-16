@@ -1,6 +1,6 @@
 # FTA Intro
 
->This is used for the FTA Intro 1:many session delivered to new FTA customers
+>This is used for the FTA Intro 1:many session delivered to new FTA customers or customers that would like to have a refresher on the scope and program elegibility for the FastTrack for Azure program.
 
 
 ## Contributing
