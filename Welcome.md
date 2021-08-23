@@ -12,12 +12,15 @@
 1. [FastTrack for Azure Summary](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview)
 2. [Eligibility to the Program](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#eligible-customers)
 3. [Solutions Supported](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#supported-solutions)
-4. ![The FastTrack for Azure Journey](/FTA Project process.PNG)
-5. (https://azure.microsoft.com/en-us/programs/azure-fasttrack/#faqs)
+![The FastTrack for Azure Journey](/FTA Project Process.PNG)
+5. 
 6. [In Scope vs Out of Scope](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#faqs)
 7. Roles and Responsibilities
 8. Example Project
 9. Conditions of Success
 10. Multi-Customer Sessions
-11. 
-12. Next Steps…
+11. Next Steps…
+
+Additional Info
+1. [FTA FAQ](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#faqs)
+
