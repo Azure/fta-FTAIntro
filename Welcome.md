@@ -12,6 +12,7 @@
 1. [FastTrack for Azure Summary](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview)
 2. [Eligibility to the Program](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#eligible-customers)
 3. [Solutions Supported](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#supported-solutions)
+4. [The FastTrack for Azure Journey](/Projectjourney.png)
 
 ![FTAProjectJourney](/Projectjourney.png)
 
