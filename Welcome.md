@@ -13,7 +13,9 @@
 2. [Eligibility to the Program](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#eligible-customers)
 3. [Solutions Supported](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#supported-solutions)
 
-![The FastTrack for Azure Journey](/png/FTAProjectProcess.PNG)
+![FTA Project Journey](/png/FTAProjectProcess.PNG)
+
+
 5. 
 6. [In Scope vs Out of Scope](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#faqs)
 7. Roles and Responsibilities
