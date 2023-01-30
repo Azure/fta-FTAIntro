@@ -20,7 +20,7 @@
 7. [Roles and Responsibilities](https://azure.microsoft.com/en-us/resources/fasttrack-for-azure-service-level-description)
 8. [Example Project](https://customers.microsoft.com/en-us/story/842248-additiv-professional-services-azure)
 9. [Conditions of Success](https://en.wikipedia.org/wiki/SMART_criteria)
-10. [Multi-Customer Sessions](https://fasttrack.azure.com/live/region/Asia)
+10. [Multi-Customer Sessions](https://aka.ms/ftalive)
 11. Next Steps…
 
 Additional Info
