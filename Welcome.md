@@ -12,9 +12,9 @@
 1. [FastTrack for Azure Summary](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview)
 2. [Eligibility to the Program](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#eligible-customers)
 3. [Solutions Supported](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#supported-solutions)
-4. [The FastTrack for Azure Journey](/FTAJourney.png)
+4. [FastTrack for Azure Solutions](/FTASolutions.png)
 
-![FTAProjectJourney](/FTAJourney.png)
+![FTAProjectSolutions](/FTASolutions.png)
 
 6. [In Scope vs Out of Scope](https://azure.microsoft.com/en-us/programs/azure-fasttrack/#faqs)
 7. [Roles and Responsibilities](https://azure.microsoft.com/en-us/resources/fasttrack-for-azure-service-level-description)
