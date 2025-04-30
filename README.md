@@ -1,6 +1,6 @@
 # FTA Intro
 
->The FastTrack for Azure Program was retired in December 2024, This is an archive of content used for the FTA Intro 1:many session delivered to new FTA customers or customers that would like to have a refresher on the scope and program elegibility for the FastTrack for Azure program.
+>The FastTrack for Azure Program was retired in December 2024, this is an archive of content used for the FTA Intro 1:many session delivered to new FTA customers or customers that were seeking a refresher on the scope and program elegibility for the FastTrack for Azure program.
 >For content jump to [FTA Live](https://github.com/Azure/fta-FTAIntro/blob/main/Welcome.md)
 
 ## Contributing
